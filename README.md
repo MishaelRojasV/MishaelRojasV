@@ -6,7 +6,8 @@ I'm a 9th semester student of Systems Engineering at the National University of 
 <h2>Skills :muscle</h2>
 These are some of the main technologies that I use or have worked on in the past:
 
-<div align="left">
+<div display="flex">
+  <div align="left">
   <h3>Back-end & Front-end</h3>
   <a href="https://developer.mozilla.org/es/docs/Glossary/HTML5" target="_blank"><img src="https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white" alt="html"/></a>
   <a href="https://developer.mozilla.org/es/docs/Web/CSS" target="_blank"><img src="https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white" alt="css"/></a>  
@@ -25,6 +26,10 @@ These are some of the main technologies that I use or have worked on in the past
   <a href="#" target="_blank"><img src="https://img.shields.io/badge/SQLite-07405E?style=for-the-badge&logo=sqlite&logoColor=white" alt="sqlite"/></a>  
   <a href="#" target="_blank"><img src="https://img.shields.io/badge/PostgreSQL-316192?style=for-the-badge&logo=postgresql&logoColor=white" alt="postgresql"/></a>   
 </div>
+  
+</div>
+
+
 
 
 <div align="">
