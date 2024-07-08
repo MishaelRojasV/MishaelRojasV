@@ -1,9 +1,9 @@
 
-<h1>Hi There, I am <a  href="https://github.com/MishaelRojasV">Mishael Rojas Valiente</a><img src="https://raw.githubusercontent.com/ABSphreak/ABSphreak/master/gifs/Hi.gif" width="30px"></h1>
-
+<h1>Hi, I am <a  href="https://github.com/MishaelRojasV">Mishael Rojas Valiente</a><img src="https://raw.githubusercontent.com/ABSphreak/ABSphreak/master/gifs/Hi.gif" width="30px"></h1>
+<br>
 I'm a 9th semester student of Systems Engineering at the National University of Trujillo. As a Full Stack Developer, I'm passionate about technology and software development. My daily routine involves building and maintaining various software projects. In my free time, I enjoy watching movies and taking online courses. I am open to collaborating on interesting projects.
 
-<h2>Skills :muscle</h2>
+<h2>Skills 💪</h2>
 These are some of the main technologies that I use or have worked on in the past:
 
 <div align="left">
@@ -18,14 +18,14 @@ These are some of the main technologies that I use or have worked on in the past
   <a href="https://www.djangoproject.com/" target="_blank"><img src="https://img.shields.io/badge/Django-092E20?style=for-the-badge&logo=django&logoColor=white" alt="django"/></a>
   <a href="https://laravel.com/" target="_blank"><img src="https://img.shields.io/badge/Laravel-FF2D20?style=for-the-badge&logo=laravel&logoColor=white" alt="laravel"/></a>  
 </div>
-
+<br>
 <div align="left">
   <h3>Database</h3>
   <a href="#" target="_blank"><img src="https://img.shields.io/badge/MySQL-005C84?style=for-the-badge&logo=mysql&logoColor=white" alt="mysql"/></a>  
   <a href="#" target="_blank"><img src="https://img.shields.io/badge/SQLite-07405E?style=for-the-badge&logo=sqlite&logoColor=white" alt="sqlite"/></a>  
   <a href="#" target="_blank"><img src="https://img.shields.io/badge/PostgreSQL-316192?style=for-the-badge&logo=postgresql&logoColor=white" alt="postgresql"/></a>   
 </div>
-
+<br>
 <div align="left">
   <h3>Version Control & Tools </h3>
   <a href="#" target="_blank"><img src="https://img.shields.io/badge/Github-black?style=for-the-badge&logo=github&logoColor=white" alt="github"/></a>  
@@ -33,7 +33,7 @@ These are some of the main technologies that I use or have worked on in the past
   <a href="#" target="_blank"><img src="https://img.shields.io/badge/Visual%20Studio%20Code-blue?style=for-the-badge&logo=visualstudiocode&logoColor=white" alt="visual"/></a>
   <a href="#" target="_blank"><img src="https://img.shields.io/badge/PyCharm-000000.svg?&style=for-the-badge&logo=PyCharm&logoColor=white" alt="pycharm"/></a>
 </div>
-
+<br>
 <div align="center">
   <h2>Contact 🌐</h2>
   <a href="mijharv@gmail.com" target="_blank"><img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white" alt="gmail"/></a>  
@@ -41,7 +41,7 @@ These are some of the main technologies that I use or have worked on in the past
   <a href="#" target="_blank"><img src="https://img.shields.io/badge/WhatsApp-25D366?style=for-the-badge&logo=whatsapp&logoColor=white" alt="whastapp"/></a>  
   <a href="https://www.instagram.com/mijhaeljempier.rojas/" target="_blank"><img src="https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white" alt="instagram"/></a>  
 </div>
-
+<br>
 
 
 
