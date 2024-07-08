@@ -1,11 +1,10 @@
+## Presentation
 <h1 align="center">Hi 👋, I'm Mishael Rojas Valiente</h1>
 
-<h1 align="center">  
-[![Typing SVG](https://readme-typing-svg.herokuapp.com?font=Architects+Daughter&size=26&color=%23DFC6B4&center=true&vCenter=true&lines=Hi%2C+It's+Farah!;Full-Stack+Developer;Tech+enthusiast;and+an+Open-Source+Supporter)](https://git.io/typing-svg)
-</h1>
+
+
 
 ## My tech stack
-
 <p align="left"> 
   <a><img alt="TypeScript" src="https://img.shields.io/badge/-TypeScript-blue?logo=Typescript&logoColor=black"></a> 
   &emsp;
