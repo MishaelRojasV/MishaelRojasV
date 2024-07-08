@@ -1,42 +1,37 @@
-## Presentation
-<h1 align="center">Hi 👋, I'm Mishael Rojas Valiente</h1>
+
+<h1>Hi There, I am <a  href="https://github.com/MishaelRojasV">Mishael Rojas Valiente</a></h1></a> <img  src="https://raw.githubusercontent.com/ABSphreak/ABSphreak/master/gifs/Hi.gif" width="30px"></h1>
+
+I'm a 9th semester student of Systems Engineering at the National University of Trujillo. As a Full Stack Developer, I'm passionate about technology and software development. My daily routine involves building and maintaining various software projects. In my free time, I enjoy watching movies and taking online courses. I am open to collaborating on interesting projects.
+
+<h2>Skills:muscle:</h2>
+These are some of the main technologies that I use or have worked on in the past:
+
+<div align="left">
+  <h3>Back-end & Front-end</h3>
+  <a href="https://php.net" target="_blank"><img src="https://img.shields.io/badge/PHP-777BB4?style=for-the-badge&logo=php&logoColor=white" alt="php"/></a>
+</div>
+
+<div align="right">
+  <h3>Database</h3>
+  
+</div>
+
+
+<div align="left">
+  <h3>Version Control</h3>
+
+</div>
+
+<div align="right">
+  <h3>IDE & Tools</h3>
+   
+</div>
 
 
 
 
-## My tech stack
-<p align="left"> 
-  <a><img alt="TypeScript" src="https://img.shields.io/badge/-TypeScript-blue?logo=Typescript&logoColor=black"></a> 
-  &emsp;
-  <a><img alt="JavaScript" src="https://img.shields.io/badge/JavaScript%20-%23F7DF1E.svg?logo=javascript&logoColor=black"></a>
-  &emsp;
-  <a><img alt="Python" src="https://img.shields.io/badge/Python%20-%2314354C.svg?logo=python&logoColor=white"></a>
-  &emsp;
-  <a><img alt="Git" src="https://img.shields.io/badge/-git-red?logo=git&logoColor=white"/></a>
-  &emsp; 
-  <a><img alt="Django" src="https://img.shields.io/badge/-Django-green?logo=django&Color=white"></a> 
-  &emsp;
-  <a><img alt="github" src="https://img.shields.io/badge/-GitHub-black?logo=github&logoColor=white"></a>
-  &emsp;
-  <a><img alt="tensorflow" src="https://img.shields.io/badge/-tensorflow-orange?logo=tensorflow&logoColor=white"></a>
-  &emsp;
-  <a><img alt="redis" src="https://img.shields.io/badge/-redis-red?logo=redis&logoColor=white"/></a>
-  &emsp;
-</p>
 
 
 
-<!--
-**MishaelRojasV/MishaelRojasV** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
-Here are some ideas to get you started:
-
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+Credit: [Mishael Rojas](https://github.com/MishaelRojasV)
