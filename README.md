@@ -1,7 +1,7 @@
 
 <h1>Hi, I am <a  href="https://github.com/MishaelRojasV">Mishael Rojas Valiente</a><img src="https://raw.githubusercontent.com/ABSphreak/ABSphreak/master/gifs/Hi.gif" width="30px"></h1>
 <br>
-I'm a 9th semester student of Systems Engineering at the National University of Trujillo. As a Full Stack Developer, I'm passionate about technology and software development. My daily routine involves building and maintaining various software projects. In my free time, I enjoy watching movies and taking online courses. I am open to collaborating on interesting projects.
+I'm a 10th semester student of Systems Engineering at the National University of Trujillo. As a Full Stack Developer, I'm passionate about technology and software development. My daily routine involves building and maintaining various software projects. In my free time, I enjoy watching movies and taking online courses. I am open to collaborating on interesting projects.
 
 <h2>Skills 💪</h2>
 These are some of the main technologies that I use or have worked on in the past:
@@ -37,7 +37,7 @@ These are some of the main technologies that I use or have worked on in the past
 <div align="center">
   <h2>Contact 🌐</h2>
   <a href="mijharv@gmail.com" target="_blank"><img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white" alt="gmail"/></a>  
-  <a href="https://www.linkedin.com/in/mishael-rojas-valiente-091207271/" target="_blank"><img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" alt="linkedin"/></a>  
+  <a href="www.linkedin.com/in/mishaelrv/" target="_blank"><img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" alt="linkedin"/></a>  
   <a href="#" target="_blank"><img src="https://img.shields.io/badge/WhatsApp-25D366?style=for-the-badge&logo=whatsapp&logoColor=white" alt="whastapp"/></a>  
   <a href="https://www.instagram.com/mishaelrv.08/" target="_blank"><img src="https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white" alt="instagram"/></a>  
 </div>
