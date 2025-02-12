@@ -1,7 +1,7 @@
 
 <h1>Hi, I am <a  href="https://github.com/MishaelRojasV">Mishael Rojas Valiente</a><img src="https://raw.githubusercontent.com/ABSphreak/ABSphreak/master/gifs/Hi.gif" width="30px"></h1>
 <br>
-I'm a 10th semester student of Systems Engineering at the National University of Trujillo. As a Full Stack Developer, I'm passionate about technology and software development. My daily routine involves building and maintaining various software projects. In my free time, I enjoy watching movies and taking online courses. I am open to collaborating on interesting projects.
+I'm a 🎓 Systems Engineering graduate from the National University of Trujillo and a passionate Full Stack Developer 💻. I specialize in building and maintaining software solutions, constantly exploring new technologies to enhance my skills 🚀. In my free time, I enjoy watching movies 🎬 and taking online courses 📚 to stay updated with industry trends. I'm always open to collaborating on innovative projects and expanding my expertise. ✨
 
 <h2>Skills 💪</h2>
 These are some of the main technologies that I use or have worked on in the past:
